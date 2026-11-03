@@ -19,3 +19,6 @@ Hai! Ini adalah aplikasi buku harian digital yang aku buat pakai **React Native*
 * **Bahasa**: TypeScript
 * **State Management**: React Context (`DiaryContext`)
 * **Styling**: Kumpulan token kustom (`COLORS`, `SPACE`, `RADIUS`, `TYPO`)
+
+* Gambar:
+* 
