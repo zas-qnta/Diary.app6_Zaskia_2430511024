@@ -14,7 +14,7 @@ import {
   RADIUS,
 } from '../../src/styles/tokens';
 
-const MOODS = ['😊', '🚀', '☕', '✨'];
+const MOODS = ['😊', '🤭', '🥱', '🫨', '🤔', '🥲', '🤩'];
 
 export default function CreateScreen() {
   const router = useRouter();
@@ -115,7 +115,7 @@ const styles = StyleSheet.create({
     borderColor: COLORS.border,
     borderRadius: RADIUS.card,
     padding: 12,
-    backgroundColor: '#fff',
+    backgroundColor: '#96d4f1',
   },
   bodyInput: {
     minHeight: 120,
@@ -134,7 +134,7 @@ const styles = StyleSheet.create({
     borderWidth: 1,
     borderColor: COLORS.border,
     borderRadius: 12,
-    backgroundColor: '#fff',
+    backgroundColor: '#96d4f1',
   },
   moodSelected: {
     borderColor: COLORS.accent,
@@ -154,7 +154,7 @@ const styles = StyleSheet.create({
     opacity: 0.45,
   },
   saveText: {
-    color: '#fff',
+    color: '#96d4f1',
     fontWeight: '700',
   },
 });

@@ -13,7 +13,7 @@ import { useDiarySearch } from '../../src/hooks/useDiarySearch';
 import DiaryCard from '../../src/components/DiaryCard';
 import { COLORS, SPACE, RADIUS, TYPO } from '../../src/styles/tokens';
 
-const MOODS = ['😊', '🚀', '☕', '✨'];
+const MOODS = ['😊', '🤭', '🥱', '🫨', '🤔', '🥲', '🤩'];
 
 export default function HomeScreen() {
   const router = useRouter();

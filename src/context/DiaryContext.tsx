@@ -39,7 +39,7 @@ const INITIAL_ENTRIES: DiaryEntry[] = [
     date: '2026-11-01',
     preview: 'Menyelesaikan modul dan berdiskusi dengan tim.',
     body: 'Hari ini cukup produktif karena beberapa target perkuliahan selesai.',
-    mood: '🚀',
+    mood: '🫨',
   },
   {
     id: 3,
@@ -47,7 +47,15 @@ const INITIAL_ENTRIES: DiaryEntry[] = [
     date: '2026-10-31',
     preview: 'Membaca buku sambil menikmati sore.',
     body: 'Sore ini saya menikmati waktu membaca buku dengan suasana yang santai.',
-    mood: '☕',
+    mood: '🥱',
+  },
+  {
+    id: 4,
+    title: 'Bersantai Di weekend',
+    date: '2026-11-01',
+    preview: 'Menonton film dan bersantai',
+    body: 'Pagi ini tidak ada kegiatan apapun, Jadi Aku bersantai',
+    mood: '🤭',
   },
 ];
 
